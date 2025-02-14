@@ -15,6 +15,7 @@ function exibirMensagemInicial() {
 }
 
 exibirMensagemInicial();
+// Teste de alteração em 14/02/2025 03:55
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
